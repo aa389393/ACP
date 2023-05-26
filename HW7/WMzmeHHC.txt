@@ -1,0 +1,55 @@
+1. Add a nuumber or 2. Delete a number:1
+Add a number:1
+input=1,insert_index=0,before_or_after=1
+count: 1 
+ From head --> 1 
+ From tail --> 1 
+
+1. Add a nuumber or 2. Delete a number:1
+Add a number:1
+ Specify a target location:1
+ 1. Before or 2. After the location 1:1
+input=1,insert_index=1,before_or_after=1
+count: 2 
+ From head --> 1 1 
+ From tail --> 1 1 
+
+1. Add a nuumber or 2. Delete a number:1
+Add a number:1
+ Specify a target location:1
+ 1. Before or 2. After the location 1:1
+input=1,insert_index=1,before_or_after=1
+count: 3 
+ From head --> 1 1 1 
+ From tail --> 1 1 1 
+
+1. Add a nuumber or 2. Delete a number:1
+Add a number:1
+ Specify a target location:1
+ 1. Before or 2. After the location 1:1
+input=1,insert_index=1,before_or_after=1
+count: 4 
+ From head --> 1 1 1 1 
+ From tail --> 1 1 1 1 
+
+1. Add a nuumber or 2. Delete a number:1
+Add a number:1
+ Specify a target location:11
+ 1. Before or 2. After the location 11:1
+input=1,insert_index=11,before_or_after=1
+insert 1 before 1
+count: 5 
+ From head --> 1 1 1 1 1 
+ From tail --> 1 1 1 1 
+
+1. Add a nuumber or 2. Delete a number:1
+Add a number:1
+ Specify a target location:11
+ 1. Before or 2. After the location 11:1
+input=1,insert_index=11,before_or_after=1
+insert 1 before 1
+count: 6 
+ From head --> 1 1 1 1 1 1 
+ From tail --> 1 1 1 1 
+
+1. Add a nuumber or 2. Delete a number:

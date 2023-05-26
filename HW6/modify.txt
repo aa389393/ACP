@@ -1,0 +1,5 @@
+1. new_storage->prev new_storage->next 沒有指向 NULL
+2. 加上第一項後，line 55 58 75就可移除
+3. line 66 <= 改成 <，否則在加入相同的value時會卡在這個if，導致新增相同值會有bug
+4. line 69 改成 tmp_ptr->prev = new_storage
+5. line 73 將 input > tmp_ptr->number， 否則無法新增至尾端
