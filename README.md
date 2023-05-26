@@ -45,3 +45,7 @@ Pointer to Pointer Application
 <h2><a href = "https://github.com/aa389393/ACP/tree/main/HW12">HW12 </a> / <a href = "https://github.com/aa389393/ACP/tree/main/HW13">HW13 </a> </h2>  
 
 Queue Application
+
+<h2><a href = "https://github.com/aa389393/ACP/tree/main/HW14">HW14 </a></h2>  
+
+Declaration(typedef)
